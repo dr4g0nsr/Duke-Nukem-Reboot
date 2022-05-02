@@ -1,0 +1,31 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v5.0.639693989)
+
+newmtl MD3_[default][1_woman]
+Kd 1 1 1
+Ka 0.050000001 0.050000001 0.050000001
+Ks 1 1 1
+illum 1
+map_Kd NULL
+
+newmtl MD3_[default][2_plant]
+Kd 1 1 1
+Ka 0.050000001 0.050000001 0.050000001
+Ks 1 1 1
+illum 1
+map_Kd NULL
+
+newmtl MD3_[default][3_panties]
+Kd 1 1 1
+Ka 0.050000001 0.050000001 0.050000001
+Ks 1 1 1
+illum 1
+map_Kd NULL
+
+newmtl MD3_[default][4_hair]
+Kd 1 1 1
+Ka 0.050000001 0.050000001 0.050000001
+Ks 1 1 1
+illum 1
+map_Kd NULL
+
