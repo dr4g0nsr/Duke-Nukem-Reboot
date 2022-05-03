@@ -379,6 +379,7 @@ public class UIManagerTech : MonoBehaviour
 
 	// Load Bar synching animation
 	IEnumerator LoadAsynchronously (string sceneName){ // scene name is just the name of the current scene being loaded
+		Debug.Log(sceneName);
 		AsyncOperation operation = SceneManager.LoadSceneAsync(sceneName);
 
 		while (!operation.isDone){
